@@ -1,7 +1,7 @@
 # Hello World! I'm Gema Saputera 👋 
 
 ## About Me
-🚀 Frontend Web Developer at ENT Squad, PT Telkom Indonesia  
+🚀 Ex Frontend Web Developer at PT Telkom Indonesia  
 🎨 Crafting digital experiences with code & design  
 📸 Visual storyteller through photography  
 🌏 Based in Greater Jakarta Area, Indonesia
