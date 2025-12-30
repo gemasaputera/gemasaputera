@@ -8,8 +8,14 @@
 
 ### 👨‍💻 Professional Journey
 ```markdown
+🏢 Qlola, PT Bank Rakyat Indonesia
+   Frontend Web Developer (Sep 2025 - present)
+   • Building robust dashboard solutions
+   • Working in a hybrid environment
+   • Expertise in frontend development tools
+   
 🏢 ENT Squad, PT Telkom Indonesia
-   Frontend Web Developer (Aug 2019 - Present)
+   Frontend Web Developer (Aug 2019 - Mar 2025)
    • Building robust dashboard solutions
    • Working in a hybrid environment
    • Expertise in frontend development tools
